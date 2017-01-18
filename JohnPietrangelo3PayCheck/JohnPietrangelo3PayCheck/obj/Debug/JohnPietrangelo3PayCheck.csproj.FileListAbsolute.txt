@@ -1,0 +1,6 @@
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo3PayCheck\JohnPietrangelo3PayCheck\bin\Debug\JohnPietrangelo3PayCheck.exe.config
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo3PayCheck\JohnPietrangelo3PayCheck\obj\Debug\JohnPietrangelo3PayCheck.csprojResolveAssemblyReference.cache
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo3PayCheck\JohnPietrangelo3PayCheck\bin\Debug\JohnPietrangelo3PayCheck.exe
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo3PayCheck\JohnPietrangelo3PayCheck\bin\Debug\JohnPietrangelo3PayCheck.pdb
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo3PayCheck\JohnPietrangelo3PayCheck\obj\Debug\JohnPietrangelo3PayCheck.exe
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo3PayCheck\JohnPietrangelo3PayCheck\obj\Debug\JohnPietrangelo3PayCheck.pdb
